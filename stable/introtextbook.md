@@ -1,10 +1,4 @@
-# Introduction to Systems in biology
-
-
-
-
-=============================
-TODO move following to inside respective parts
+# Introduction to Systems in Biology Textbook
 
 
 ## Biological Systems: Parts, Past, Patterns, and Processes.
